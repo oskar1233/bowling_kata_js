@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "guest",
+  "author": "Oskar Laska <ooskar1233@yahoo.com>",
   "license": "UNLICENSED",
   "devDependencies": {
     "jest": "^23.2.0"
